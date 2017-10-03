@@ -1,6 +1,6 @@
-# Project 3 - SimpleTweets_fh
+# Project 3 - MySimpleTweets
 
-SimpleTweets_fh is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://developer.twitter.com/en/docs/api-reference-index).
+MySimpleTweets is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://developer.twitter.com/en/docs/api-reference-index).
 
 Time spent: 19 hours spent in total
 
